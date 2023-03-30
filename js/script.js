@@ -403,5 +403,5 @@ console.log(`Women: ${women}`);
 console.log(earnings);
 console.log(`Social media marketing: ${socialMediaMarketing}`);
 console.log(`Development: ${development}`);
-console.log(`Graphical design: ${graphicDesign}`);
+console.log(`Graphic design: ${graphicDesign}`);
 console.log(`Average age: ${averageAge}`);
