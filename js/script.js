@@ -1,5 +1,4 @@
 let courses = [
-
     {
     
     title: 'SMM',
@@ -394,6 +393,7 @@ students.forEach(element => {
     earnings.max = payments[payments.length - 1]
     earnings.min = payments[0]
 })
+
 //task 7 part 2
 averageAge = Math.round(averageAge)
 
